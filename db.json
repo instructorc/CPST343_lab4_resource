@@ -1,63 +1,30 @@
 [
   {
     "name": "LeBron James",
-    "sport": "Basketball",
     "team": "Los Angeles Lakers",
     "position": "Small Forward",
     "image": "https://thumbs.dreamstime.com/z/lebron-james-13530609.jpg"
   },
   {
     "name": "Stephen Curry",
-    "sport": "Basketball",
     "team": "Golden State Warriors",
     "position": "Point Guard",
     "image": "https://thumbs.dreamstime.com/z/stephen-curry-usa-…tch-usa-mexico-final-score-september-55744408.jpg"
   },
   {
-    "name": "Kevin Durant",
-    "sport": "Basketball",
-    "team": "Brooklyn Nets",
-    "position": "Small Forward",
-    "image": "https://thumbs.dreamstime.com/z/olympic-champion-kevin-durant-team-usa-action-group-basketball-match-team-usa-australia-rio-de-janeiro-77789379.jpg"
-  },
-  {
     "name": "Kobe Bryant",
-    "sport": "Basketball",
     "team": "Los Angeles Lakers",
     "position": "Shooting Guard",
     "image": "https://thumbs.dreamstime.com/z/kobe-bryant-talks-to-teammate-los-angles-dec-los-angeles-lakers-jordan-hill-staple-center-against-phoenix-suns-48496911.jpg"
   },
   {
-    "name": "Giannis Antetokounmpo",
-    "sport": "Basketball",
-    "team": "Milwaukee Bucks",
-    "position": "Power Forward",
-    "image": "https://thumbs.dreamstime.com/z/nba-awards-los-angeles-jun-giannis-antetokounmpo-barker-hanger-june-santa-monica-ca-191002702.jpg"
-  },
-  {
-    "name": "Anthony Davis",
-    "sport": "Basketball",
-    "team": "Los Angeles Lakers",
-    "position": "Power Forward",
-    "image": "https://thumbs.dreamstime.com/z/anthony-davis-action-usa-team-fiba-world-cup-basketball-match-usa-mexico-final-score-september-barcelona-44565603.jpg"
-  },
-  {
     "name": "Michael Jordan",
-    "sport": "Basketball",
     "team": "Chicago Bulls",
     "position": "Shooting Guard",
     "image": "https://thumbs.dreamstime.com/z/michael-jordan-chicago-bulls-nba-hall-fame-player-all-time-great-basketball-player-79367398.jpg"
   },
   {
-    "name": "James Harden",
-    "sport": "Basketball",
-    "team": "Brooklyn Nets",
-    "position": "Shooting Guard",
-    "image": "https://thumbs.dreamstime.com/z/james-harden-usa-action-fiba-world-cup-basketball-match-team-lithuania-final-score-september-44450774.jpg"
-  },
-  {
     "name": "Luka Doncic",
-    "sport": "Basketball",
     "team": "Dallas Mavericks",
     "position": "Point Guard",
     "image": "https://thumbs.dreamstime.com/z/cologne-germany-september-luka-doncic-basketball-match-eurobasket-france-vs-slovenia-basketball-match-eurobasket-255474042.jpgogos/teamlogos_500x500/dal.png"
