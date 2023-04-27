@@ -1,0 +1,333 @@
+[{
+    "_id": {
+      "$oid": "6444c3cc7531355ed9ee5c61"
+    },
+    "prop_id": 100,
+    "prop_name": "Nema Chicago",
+    "prop_phone": {
+      "$numberLong": "2323333254"
+    },
+    "prop_address": "123 Michigan Ave.",
+    "prop_city": "Chicago",
+    "prop_zipcode": 60604,
+    "prop_website": "https://nemachicago.com",
+    "prop_yearbuilt": 2020,
+    "prop_short_description": "This is short description of property",
+    "prop_long_description": "This is the long description of property",
+    "prop_longitude": 2232323.232,
+    "prop_latitude": 233232323.22,
+    "prop_star_rating": 4,
+    "prop_offers": [
+      {
+        "prop_offer_name": "2 Month Paid Rent",
+        "prop_offer_description": "2 paid month with signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "02-22-2023",
+        "prop_offer_current": "Yes"
+      },
+      {
+        "prop_offer_name": "1 Month Paid Rent",
+        "prop_offer_description": "1 paid month with signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "11-06-2023",
+        "prop_offer_current": "No"
+      },
+      {
+        "prop_offer_name": "Waive administrative fee's",
+        "prop_offer_description": "Must sign lease agreement for 12 months and make $500 deposit",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "03-10-2023",
+        "prop_offer_current": "No"
+      }
+    ],
+    "prop_amenities": [
+      "In-door Pool",
+      "Work-out Room",
+      "Cigar lounge",
+      "Dry Cleaning Service",
+      "Dog-run",
+      "Pet Boarding",
+      "In-door parking"
+    ],
+    "prop_admin_notes": [
+      {
+        "prop_note_date": "05-08-2023",
+        "prop_note_info": "Property offer's 3-bedroom apartments, and do not require a background check",
+        "prop_note_enteringuser": "C. Fulton"
+      },
+      {
+        "prop_note_date": "09-08-2021",
+        "prop_note_info": "This property is expected to open a dry cleaning on-site location",
+        "prop_note_enteringuser": "C. Fulton"
+      }
+    ],
+    "prop_contacts": [
+      {
+        "prop_contact_name": "Dawn Michelle",
+        "prop_contact_email": "dm@pioneerproperty.com",
+        "prop_contact_phone": "2329813456",
+        "prop_contact_current": "Yes"
+      }
+    ],
+    "prop_logo_image": "https://nemachicago.com/logo.png"
+  },{
+    "_id": {
+      "$oid": "64484074dae40bd00a411f06"
+    },
+    "prop_id": 1000,
+    "prop_name": "1000 South Clark Apartment",
+    "prop_phone": {
+      "$numberLong": "3125556789"
+    },
+    "prop_address": "1000 S Clark St",
+    "prop_city": "Chicago",
+    "prop_zipcode": 60605,
+    "prop_website": "https://1000southclarkapts.com",
+    "prop_yearbuilt": 2020,
+    "prop_short_description": "Live in luxury in the heart of Chicago's South Loop neighborhood.",
+    "prop_long_description": "1000 South Clark is a luxury apartment building offering studio, one, two, and three-bedroom apartment homes in Chicago's South Loop neighborhood. With breathtaking views of the city skyline, Lake Michigan, and Grant Park, our apartments feature floor-to-ceiling windows, balconies, gourmet kitchens with stainless steel appliances, in-unit washer and dryers, and spacious closets. Our community amenities include a rooftop terrace with a pool, fitness center, resident lounge, dog park, and more. 1000 South Clark is the perfect home for those who want to experience luxury living in the heart of the city.",
+    "prop_longitude": -87.630028,
+    "prop_latitude": 41.869905,
+    "prop_star_rating": 4.8,
+    "prop_offers": [
+      {
+        "prop_offer_name": "1 Month Free Rent",
+        "prop_offer_description": "Get one month's rent free with a signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      },
+      {
+        "prop_offer_name": "Waive Administrative Fees",
+        "prop_offer_description": "Get administrative fees waived with a signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      }
+    ],
+    "prop_amenities": [
+      "Rooftop pool",
+      "Fitness center",
+      "Resident lounge",
+      "Dog park",
+      "Bike storage",
+      "Package receiving",
+      "On-site parking"
+    ],
+    "prop_admin_notes": [
+      {
+        "prop_note_date": "04-20-2023",
+        "prop_note_info": "New resident moving in to unit 1203 on 5/1/2023",
+        "prop_note_enteringuser": "J. Smith"
+      },
+      {
+        "prop_note_date": "04-15-2023",
+        "prop_note_info": "Fire alarm system was tested and passed inspection on 4/14/2023",
+        "prop_note_enteringuser": "J. Smith"
+      }
+    ],
+    "prop_contacts": [
+      {
+        "prop_contact_name": "Jane Doe",
+        "prop_contact_email": "jdoe@1000southclarkapts.com",
+        "prop_contact_phone": "3125555678",
+        "prop_contact_current": "Yes"
+      }
+    ],
+    "prop_logo_image": "https://1000clark.com/logo.png"
+  },{
+    "_id": {
+      "$oid": "64483f16dae40bd00a411f04"
+    },
+    "prop_id": 100,
+    "prop_name": "One Grant Park",
+    "prop_phone": {
+      "$numberLong": "2323333254"
+    },
+    "prop_address": "1200 S Indiana Ave",
+    "prop_city": "Chicago",
+    "prop_zipcode": 60605,
+    "prop_website": "https://onegrantpark.com",
+    "prop_yearbuilt": 2019,
+    "prop_short_description": "Experience life at the center of it all in the heart of Chicago’s Loop",
+    "prop_long_description": "One Grant Park is a brand new luxury apartment building offering studio, one, two, and three-bedroom apartment homes in Chicago’s South Loop neighborhood. With stunning views of Grant Park and Lake Michigan, our apartments feature floor-to-ceiling windows, balconies, chef-inspired kitchens with stainless steel appliances, in-unit washer and dryers, and spacious closets. Our community amenities include a rooftop terrace with a pool, fitness center, resident lounge, dog park, and more. One Grant Park is the perfect home for those who want to be at the center of it all.",
+    "prop_longitude": -87.623135,
+    "prop_latitude": 41.867263,
+    "prop_star_rating": 4.5,
+    "prop_offers": [
+      {
+        "prop_offer_name": "1 Month Free Rent",
+        "prop_offer_description": "Get one month's rent free with a signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      },
+      {
+        "prop_offer_name": "Waive Administrative Fees",
+        "prop_offer_description": "Get administrative fees waived with a signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      }
+    ],
+    "prop_amenities": [
+      "Rooftop pool",
+      "Fitness center",
+      "Resident lounge",
+      "Dog park",
+      "Bike storage",
+      "Package receiving",
+      "On-site parking"
+    ],
+    "prop_admin_notes": [
+      {
+        "prop_note_date": "04-20-2023",
+        "prop_note_info": "New resident moving in to unit 1203 on 5/1/2023",
+        "prop_note_enteringuser": "J. Smith"
+      },
+      {
+        "prop_note_date": "04-15-2023",
+        "prop_note_info": "Fire alarm system was tested and passed inspection on 4/14/2023",
+        "prop_note_enteringuser": "J. Smith"
+      }
+    ],
+    "prop_contacts": [
+      {
+        "prop_contact_name": "John Smith",
+        "prop_contact_email": "jsmith@onegrantpark.com",
+        "prop_contact_phone": "3125551234",
+        "prop_contact_current": "Yes"
+      }
+    ],
+    "prop_logo_image": "https://onegrantpark.com/logo.png"
+  },{
+    "_id": {
+      "$oid": "644863c8dae40bd00a411f0a"
+    },
+    "prop_id": 101,
+    "prop_name": "Marquee at Block 37",
+    "prop_phone": {
+      "$numberLong": "3127750500"
+    },
+    "prop_address": "25 W Randolph St",
+    "prop_city": "Chicago",
+    "prop_zipcode": 60601,
+    "prop_website": "https://www.marqueeblock37.com/",
+    "prop_yearbuilt": 2016,
+    "prop_short_description": "Experience elevated living in the heart of Chicago's Loop",
+    "prop_long_description": "Marquee at Block 37 offers sophisticated, urban living with studio, one-, and two-bedroom apartments in the heart of Chicago's Loop. With stunning city views, our apartments feature floor-to-ceiling windows, gourmet kitchens, in-unit washers and dryers, and spacious closets. Our community amenities include a fitness center, rooftop terrace with a pool, hot tub, fire pits and grilling stations, resident lounge, game room, and more. Marquee at Block 37 is steps away from world-class dining, shopping, and entertainment.",
+    "prop_longitude": -87.625121,
+    "prop_latitude": 41.884428,
+    "prop_star_rating": 4.4,
+    "prop_offers": [
+      {
+        "prop_offer_name": "Two Months Free Rent",
+        "prop_offer_description": "Get two months' rent free with a signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      },
+      {
+        "prop_offer_name": "Reduced Security Deposit",
+        "prop_offer_description": "Pay a reduced security deposit with a signed lease agreement",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      }
+    ],
+    "prop_amenities": [
+      "Rooftop pool",
+      "Fitness center",
+      "Resident lounge",
+      "Game room",
+      "Dog run",
+      "Package receiving",
+      "24-hour concierge"
+    ],
+    "prop_admin_notes": [
+      {
+        "prop_note_date": "04-23-2023",
+        "prop_note_info": "Maintenance to fix elevator issue in building B scheduled for 5/1/2023",
+        "prop_note_enteringuser": "A. Rodriguez"
+      },
+      {
+        "prop_note_date": "04-18-2023",
+        "prop_note_info": "New resident moving in to unit 1506 on 5/1/2023",
+        "prop_note_enteringuser": "A. Rodriguez"
+      }
+    ],
+    "prop_contacts": [
+      {
+        "prop_contact_name": "Alex Rodriguez",
+        "prop_contact_email": "arodriguez@marqueeblock37.com",
+        "prop_contact_phone": "3125554321",
+        "prop_contact_current": "Yes"
+      }
+    ],
+    "prop_logo_image": "https://marqueeblock37.com/logo.png"
+  },{
+    "_id": {
+      "$oid": "64488e4ddae40bd00a411f11"
+    },
+    "prop_id": 102,
+    "prop_name": "Essex on the Park",
+    "prop_phone": {
+      "$numberLong": "3125551234"
+    },
+    "prop_address": "808 S Michigan Ave",
+    "prop_city": "Chicago",
+    "prop_zipcode": 60605,
+    "prop_website": "https://www.essexonthepark.com/",
+    "prop_yearbuilt": 2019,
+    "prop_short_description": "Luxury living at the corner of Michigan Avenue and 8th Street",
+    "prop_long_description": "Essex on the Park offers luxury living in Chicago's South Loop neighborhood. Our apartments feature high-end finishes, stainless steel appliances, in-unit washer and dryer, and floor-to-ceiling windows with stunning views of Grant Park and Lake Michigan. Our community amenities include a fitness center, outdoor pool, rooftop deck, resident lounge, game room, and more. We're located steps away from world-class dining, shopping, and entertainment.",
+    "prop_longitude": -87.623926,
+    "prop_latitude": 41.872446,
+    "prop_star_rating": 4.6,
+    "prop_offers": [
+      {
+        "prop_offer_name": "One Month Free Rent",
+        "prop_offer_description": "Get one month's rent free with a signed lease agreement for 12 months",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      },
+      {
+        "prop_offer_name": "Reduced Security Deposit",
+        "prop_offer_description": "Pay a reduced security deposit with a signed lease agreement",
+        "prop_offer_duration": "N/A",
+        "prop_offer_date": "05-01-2023",
+        "prop_offer_current": "Yes"
+      }
+    ],
+    "prop_amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Rooftop deck",
+      "Resident lounge",
+      "Game room",
+      "Package receiving",
+      "24-hour concierge"
+    ],
+    "prop_admin_notes": [
+      {
+        "prop_note_date": "04-23-2023",
+        "prop_note_info": "Maintenance to fix HVAC issue in unit 1506 scheduled for 5/1/2023",
+        "prop_note_enteringuser": "J. Smith"
+      },
+      {
+        "prop_note_date": "04-18-2023",
+        "prop_note_info": "New resident moving in to unit 2408 on 5/1/2023",
+        "prop_note_enteringuser": "J. Smith"
+      }
+    ],
+    "prop_contacts": [
+      {
+        "prop_contact_name": "John Smith",
+        "prop_contact_email": "jsmith@essexonthepark.com",
+        "prop_contact_phone": "3125555678",
+        "prop_contact_current": "Yes"
+      }
+    ],
+    "prop_logo_image": "https://essexonthepark.com/logo.png"
+  }]
