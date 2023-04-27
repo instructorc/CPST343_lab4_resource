@@ -4,3 +4,5 @@ This repository contains an array of basketball card objects. The contained with
 ## Hosted Repository
 This repository makes use of github pages for hosting.  You can use the URL below to make request.
 1000 is the daily request limit. 
+
+Basketball Array of Objects: [https://instructorc.github.io/CPST343_lab4_resource/basketball_cards.json](https://instructorc.github.io/CPST343_lab4_resource/basketball_cards.json)
